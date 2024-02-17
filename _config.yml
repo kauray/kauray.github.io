@@ -7,7 +7,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Kaustabha Ray"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -20,14 +20,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "kauray2.jgp"
+  avatar           : "kauray2.jpg"
   name             : "Kaustabha Ray"
   pronouns         : # example: "she/her"  
   bio              : #"Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : #"Earth"
+  employer         : "Indian Statistical Institute"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : #"none@example.org" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
