@@ -1,49 +1,33 @@
----
-permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
+I am currently a Research Scientist with IBM Research - India prior to which I recevied my PhD from Indian Statistical Institute, Kolkata. My areas of research involve Formal Verification, Formal Synthesis, Reinforcement Learning, Optimization applied to Cloud and Edge Systems.
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
-
-A data-driven personal website
+Journal Articles
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+*  Kaustabha Ray, Ansuman Banerjee, and Nanjangud C. Narendra. "Learning-based Microservice Placement and Migration for Multi-Access Edge Computing” accepted for publication in <em>IEEE Transactions on Network and Service Management, 2023</em>
+*  Kaustabha Ray and Ansuman Banerjee, "Prioritized Fault Recovery Strategies for Multi-Access Edge Computing Using Probabilistic Model Checking" in _IEEE Transactions on Dependable and Secure Computing, vol. 20, no. 1, pp. 797-812, 1 Jan.-Feb. 2023_
+*  Kaustabha Ray, Ansuman Banerjee and Swarup K. Mohalik, "Service Selection With Package Bundles and Compatibility Constraints," in _IEEE Transactions on Services Computing, vol. 15, no. 5, pp. 3031-3046, 1 Sept.-Oct. 2022._
+*  Kaustabha Ray, and Ansuman Banerjee. "Horizontal Auto-Scaling for Multi-Access Edge Computing Using Safe Reinforcement Learning." in _ACM Transactions on Embedded Computing Systems 20, no. 6 (2021): 1-33._
+*  Kaustabha Ray, and Ansuman Banerjee. "Modeling and Verification of Service Allocation Policies for Multi-Access Edge Computing Using Probabilistic Model Checking." in _IEEE Transactions on Network and Service Management 18, no. 3 (2021): 3400-3414._
 
-Getting started
+
+Conference Proceedings
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+* Niteesh Dubey, Joefon Jann, Pratap Pattnaik, Joseph F Prisco, Mike Petrich, Kaustabha Ray,
+Umamaheswari Devi, Aanchal Goyal, Arthur Parkos, Stacey Gifford, "Modeling and Estimation of LPAR Energy Consumption for IBM POWER Systems" – in _2023 31st International Symposium on Modeling, Analysis, and Simulation of Computer and Telecommunication Systems (MASCOTS) (pp. 1-4). IEEE._
+* Kaustabha Ray. "Adaptive Service Placement for Multi-Access Edge Computing: A Formal Methods Approach." in _2023 IEEE International Conference on Web Services (ICWS), pp. 14-20. IEEE, 2023._
+* Kaustabha Ray and Ansuman Banerjee. "Preference-Aware Computation Offloading for IoT in Multi-access Edge Computing Using Probabilistic Model Checking." in _International Conference on Quantitative Evaluation of Systems (QEST), pp. 275-297. Springer, Cham, 2022._
+* Kaustabha Ray and Ansuman Banerjee. "A Framework for Analyzing Resource Allocation Policies for Multi-Access Edge Computing." in _2021 IEEE International Conference on Edge Computing (EDGE), pp. 102-110. IEEE, 2021._
+* Subrat Prasad Panda, Kaustabha Ray and Ansuman Banerjee. "Service Allocation / Placement in Multi-Access Edge Computing with Workload Fluctuations " in _International Conference on Service-Oriented Computing (ICSOC), 2021._
+* Kaustabha Ray, Ansuman Banerjee, and Nanjangud C. Narendra. "Proactive Microservice Placement and Migration for Mobile Edge Computing" in _2020 IEEE/ACM Symposium on Edge Computing (SEC), pp. 28-41. IEEE, 2020._
+* Kaustabha Ray and Ansuman Banerjee. "Trace-driven Modeling and Verification of a Mobility-Aware Service Allocation and Migration Policy for Mobile Edge Computing" in _2020 IEEE International Conference on Web Services (ICWS), pp. 310-317. IEEE, 2020._
+* Subrat Prasad Panda, Kaustabha Ray, and Ansuman Banerjee. "Dynamic Edge User Allocation with User Specified QoS Preferences" in _International Conference on Service-Oriented Computing (ICSOC), pp. 187-197. Springer, 2020._
+* Kaustabha Ray, Ansuman Banerjee, and Swarup K. Mohalik. "Web Service Selection with Correlations: A Feature-Based Abstraction Refinement Approach" in _2019 IEEE 12th Conference on Service-Oriented Computing and Applications (SOCA), pp. 33-40. IEEE, 2019._
+* Kaustabha Ray, Sunanda Bose, and Nandini Mukherjee. "A load balancing approach to resource provisioning in cloud infrastructure with a grouping genetic algorithm." in _2018 International Conference on Current Trends Towards Converging Technologies (ICCTCT), pp. 1-6. IEEE, 2018._
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+Patents Filed
+======
+* Kaustabha Ray. Management of Service Availability for Multi-Access Edge Computing
+* Kaustabha Ray. Proactive Microservice Migration Prior to Server Failure
+* Kaustabha Ray. Recommendation of Workload Allocation Policies in Multi-Access Edge Computing
+* Kaustabha Ray. Determining whether configurations on different edge sites are equivalent
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
