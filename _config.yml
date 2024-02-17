@@ -21,7 +21,7 @@ repository               : "kauray.github.io"
 author:
   # Biographic information
   avatar           : "kauray2.jpg"
-  name             : "Kaustabha Ray"
+  name             : #"Kaustabha Ray"
   pronouns         : # example: "she/her"  
   bio              : #"Short biography for the left-hand sidebar"
   location         : #"Earth"
@@ -197,16 +197,16 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: false
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
