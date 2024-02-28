@@ -40,4 +40,6 @@ Patents Filed at USPTO
 * Kaustabha Ray. Proactive Microservice Migration Prior to Server Failure
 * Kaustabha Ray. Recommendation of Workload Allocation Policies in Multi-Access Edge Computing
 * Kaustabha Ray. Determining whether configurations on different edge sites are equivalent
+* Kaustabha Ray. Fault Injection Configuration Equivalency Testing
+* Kaustabha Ray. Verifying Fairness of Workload Shifting Policies
 
