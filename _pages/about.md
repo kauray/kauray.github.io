@@ -13,7 +13,8 @@ I am currently a Research Scientist with IBM Research - India prior to which I r
 Journal Articles
 ======
 
-*  Kaustabha Ray, Ansuman Banerjee, and Nanjangud C. Narendra. "Learning-based Microservice Placement and Migration for Multi-Access Edge Computing” accepted for publication in <em>IEEE Transactions on Network and Service Management, 2023</em>
+*  Kaustabha Ray and Ansuman Banerjee. "Computation Offloading and Band Selection for IoT Devices in Multi-Access Edge Computing." accepted for publication in _ACM Transactions on Modeling and Computer Simulation, May 2024_
+*  Kaustabha Ray, Ansuman Banerjee, and Nanjangud C. Narendra. "Learning-based Microservice Placement and Migration for Multi-Access Edge Computing” accepted for publication in <em>IEEE Transactions on Network and Service Management, vol. 21, no. 2, pp. 1969-1982, April 2024</em>
 *  Kaustabha Ray and Ansuman Banerjee, "Prioritized Fault Recovery Strategies for Multi-Access Edge Computing Using Probabilistic Model Checking" in _IEEE Transactions on Dependable and Secure Computing, vol. 20, no. 1, pp. 797-812, 1 Jan.-Feb. 2023_
 *  Kaustabha Ray, Ansuman Banerjee and Swarup K. Mohalik, "Service Selection With Package Bundles and Compatibility Constraints," in _IEEE Transactions on Services Computing, vol. 15, no. 5, pp. 3031-3046, 1 Sept.-Oct. 2022._
 *  Kaustabha Ray, and Ansuman Banerjee. "Horizontal Auto-Scaling for Multi-Access Edge Computing Using Safe Reinforcement Learning." in _ACM Transactions on Embedded Computing Systems 20, no. 6 (2021): 1-33._
@@ -22,6 +23,7 @@ Journal Articles
 
 Conference Proceedings
 ======
+* Kaustabha Ray, and Ansuman Banerjee. "Autonomous Automotives on the Edge." in _2024 37th International Conference on VLSI Design and 2024 23rd International Conference on Embedded Systems (VLSID), pp. 264-269. IEEE, 2024._
 * Niteesh Dubey, Joefon Jann, Pratap Pattnaik, Joseph F Prisco, Mike Petrich, Kaustabha Ray,
 Umamaheswari Devi, Aanchal Goyal, Arthur Parkos, Stacey Gifford, "Modeling and Estimation of LPAR Energy Consumption for IBM POWER Systems" – in _2023 31st International Symposium on Modeling, Analysis, and Simulation of Computer and Telecommunication Systems (MASCOTS) (pp. 1-4). IEEE._
 * Kaustabha Ray. "Adaptive Service Placement for Multi-Access Edge Computing: A Formal Methods Approach." in _2023 IEEE International Conference on Web Services (ICWS), pp. 14-20. IEEE, 2023._
@@ -42,4 +44,5 @@ Patents Filed at USPTO
 * Kaustabha Ray. Determining whether configurations on different edge sites are equivalent
 * Kaustabha Ray. Fault Injection Configuration Equivalency Testing
 * Kaustabha Ray. Verifying Fairness of Workload Shifting Policies
+* Kaustabha Ray. Redeploying Services in Computing Systems Based on Power Consumption Needs of the Services
 
