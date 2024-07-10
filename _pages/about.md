@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Research Scientist with IBM Research - India prior to which I recevied my PhD from Indian Statistical Institute, Kolkata in February, 2022. My areas of research involve Formal Verification, Formal Synthesis, Reinforcement Learning, Optimization applied to Cloud and Edge Systems.
+I am currently a Research Scientist with IBM Research - India prior to which I received my PhD from Indian Statistical Institute, Kolkata in February, 2022. My areas of research involve Formal Verification, Formal Synthesis, Reinforcement Learning, Optimization applied to Cloud and Edge Systems.
 
 Journal Articles
 ======
