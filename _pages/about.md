@@ -36,7 +36,7 @@ Umamaheswari Devi, Aanchal Goyal, Arthur Parkos, Stacey Gifford, "Modeling and E
 * Kaustabha Ray, Ansuman Banerjee, and Swarup K. Mohalik. "Web Service Selection with Correlations: A Feature-Based Abstraction Refinement Approach" in _2019 IEEE 12th Conference on Service-Oriented Computing and Applications (SOCA), pp. 33-40. IEEE, 2019._
 * Kaustabha Ray, Sunanda Bose, and Nandini Mukherjee. "A load balancing approach to resource provisioning in cloud infrastructure with a grouping genetic algorithm." in _2018 International Conference on Current Trends Towards Converging Technologies (ICCTCT), pp. 1-6. IEEE, 2018._
 
-Patents Filed at USPTO
+Patents Filed at USPTO from IBM Research
 ======
 * Kaustabha Ray. Management of Service Availability for Multi-Access Edge Computing
 * Kaustabha Ray. Proactive Microservice Migration Prior to Server Failure
