@@ -45,4 +45,5 @@ Patents Filed at USPTO
 * Kaustabha Ray. Fault Injection Configuration Equivalency Testing
 * Kaustabha Ray. Verifying Fairness of Workload Shifting Policies
 * Kaustabha Ray. Redeploying Services in Computing Systems Based on Power Consumption Needs of the Services
+* Kaustabha Ray. Synthesizing Allocations for Microservices in Multi-Access Edge Computing
 
