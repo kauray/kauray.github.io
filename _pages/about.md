@@ -47,4 +47,5 @@ Patents Filed at USPTO from IBM Research
 * Kaustabha Ray. Verifying Fairness of Workload Shifting Policies
 * Kaustabha Ray. Redeploying Services in Computing Systems Based on Power Consumption Needs of the Services
 * Kaustabha Ray. Synthesizing Allocations for Microservices in Multi-Access Edge Computing
+* Akanksha Singal, Kaustabha Ray, Felix George, Mudit Verma, Pratibha Moogi. Metric Subset Selection For Dynamic Performance Monitoring
 
