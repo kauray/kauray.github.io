@@ -55,4 +55,4 @@ Patents Filed at USPTO from IBM Research
 * Kaustabha Ray. Synthesizing Allocations for Microservices in Multi-Access Edge Computing
 * Akanksha Singal, Kaustabha Ray, Felix George, Mudit Verma, Pratibha Moogi. Metric Subset Selection For Dynamic Performance Monitoring
 * Kaustabha Ray, UmaMaheswari C Devi, Felix George. Configuration of Multi-Instance Graphics Processing Units
-* Kaustabha Ray, UmaMaheswari C Devi, Felix George. Power utilization approximation across aplurality of processing instances of aparallel processor
+* Kaustabha Ray, UmaMaheswari C Devi, Felix George. Power utilization approximation across a plurality of processing instances of a parallel processor
