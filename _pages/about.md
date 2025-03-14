@@ -13,8 +13,8 @@ I am currently a Research Scientist with IBM Research - India prior to which I r
 Journal Articles
 ======
 
-*  Kaustabha Ray. "Context-Aware Fault Classification for Multi-Access Edge Computing." accepted for publication in _IEEE Transactions on Network and Service Management, July 2024_
 *  Kaustabha Ray and Ansuman Banerjee. "Computation Offloading and Band Selection for IoT Devices in Multi-Access Edge Computing." accepted for publication in _ACM Transactions on Modeling and Computer Simulation, May 2024_
+*  Kaustabha Ray. "Context-Aware Fault Classification for Multi-Access Edge Computing." accepted for publication in _IEEE Transactions on Network and Service Management, vol. 21, no. 6, pp. 6290-6300, Dec. 2024_
 *  Kaustabha Ray, Ansuman Banerjee, and Nanjangud C. Narendra. "Learning-based Microservice Placement and Migration for Multi-Access Edge Computing” accepted for publication in <em>IEEE Transactions on Network and Service Management, vol. 21, no. 2, pp. 1969-1982, April 2024</em>
 *  Kaustabha Ray and Ansuman Banerjee, "Prioritized Fault Recovery Strategies for Multi-Access Edge Computing Using Probabilistic Model Checking" in _IEEE Transactions on Dependable and Secure Computing, vol. 20, no. 1, pp. 797-812, 1 Jan.-Feb. 2023_
 *  Kaustabha Ray, Ansuman Banerjee and Swarup K. Mohalik, "Service Selection With Package Bundles and Compatibility Constraints," in _IEEE Transactions on Services Computing, vol. 15, no. 5, pp. 3031-3046, 1 Sept.-Oct. 2022._
@@ -37,10 +37,16 @@ Umamaheswari Devi, Aanchal Goyal, Arthur Parkos, Stacey Gifford, "Modeling and E
 * Kaustabha Ray, Ansuman Banerjee, and Swarup K. Mohalik. "Web Service Selection with Correlations: A Feature-Based Abstraction Refinement Approach" in _2019 IEEE 12th Conference on Service-Oriented Computing and Applications (SOCA), pp. 33-40. IEEE, 2019._
 * Kaustabha Ray, Sunanda Bose, and Nandini Mukherjee. "A load balancing approach to resource provisioning in cloud infrastructure with a grouping genetic algorithm." in _2018 International Conference on Current Trends Towards Converging Technologies (ICCTCT), pp. 1-6. IEEE, 2018._
 
-Patents Filed at USPTO from IBM Research
+Patents Granted at USPTO from IBM Research
+======
+* Kaustabha Ray. Proactive Microservice Migration Prior to Server Failure
+
+Patents Published at USPTO from IBM Research
 ======
 * Kaustabha Ray. Management of Service Availability for Multi-Access Edge Computing
-* Kaustabha Ray. Proactive Microservice Migration Prior to Server Failure
+  
+Patents Filed at USPTO from IBM Research
+======
 * Kaustabha Ray. Recommendation of Workload Allocation Policies in Multi-Access Edge Computing
 * Kaustabha Ray. Determining whether configurations on different edge sites are equivalent
 * Kaustabha Ray. Fault Injection Configuration Equivalency Testing
@@ -48,4 +54,5 @@ Patents Filed at USPTO from IBM Research
 * Kaustabha Ray. Redeploying Services in Computing Systems Based on Power Consumption Needs of the Services
 * Kaustabha Ray. Synthesizing Allocations for Microservices in Multi-Access Edge Computing
 * Akanksha Singal, Kaustabha Ray, Felix George, Mudit Verma, Pratibha Moogi. Metric Subset Selection For Dynamic Performance Monitoring
-
+* Kaustabha Ray, UmaMaheswari C Devi, Felix George. Configuration of Multi-Instance Graphics Processing Units
+* Kaustabha Ray, UmaMaheswari C Devi, Felix George. Power utilization approximation across aplurality of processing instances of aparallel processor
