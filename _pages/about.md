@@ -36,23 +36,3 @@ Umamaheswari Devi, Aanchal Goyal, Arthur Parkos, Stacey Gifford, "Modeling and E
 * Subrat Prasad Panda, Kaustabha Ray, and Ansuman Banerjee. "Dynamic Edge User Allocation with User Specified QoS Preferences" in _International Conference on Service-Oriented Computing (ICSOC), pp. 187-197. Springer, 2020._
 * Kaustabha Ray, Ansuman Banerjee, and Swarup K. Mohalik. "Web Service Selection with Correlations: A Feature-Based Abstraction Refinement Approach" in _2019 IEEE 12th Conference on Service-Oriented Computing and Applications (SOCA), pp. 33-40. IEEE, 2019._
 * Kaustabha Ray, Sunanda Bose, and Nandini Mukherjee. "A load balancing approach to resource provisioning in cloud infrastructure with a grouping genetic algorithm." in _2018 International Conference on Current Trends Towards Converging Technologies (ICCTCT), pp. 1-6. IEEE, 2018._
-
-Patents Granted at USPTO from IBM Research
-======
-* Kaustabha Ray. Proactive Microservice Migration Prior to Server Failure
-
-Patents Published at USPTO from IBM Research
-======
-* Kaustabha Ray. Management of Service Availability for Multi-Access Edge Computing
-  
-Patents Filed at USPTO from IBM Research
-======
-* Kaustabha Ray. Recommendation of Workload Allocation Policies in Multi-Access Edge Computing
-* Kaustabha Ray. Determining whether configurations on different edge sites are equivalent
-* Kaustabha Ray. Fault Injection Configuration Equivalency Testing
-* Kaustabha Ray. Verifying Fairness of Workload Shifting Policies
-* Kaustabha Ray. Redeploying Services in Computing Systems Based on Power Consumption Needs of the Services
-* Kaustabha Ray. Synthesizing Allocations for Microservices in Multi-Access Edge Computing
-* Akanksha Singal, Kaustabha Ray, Felix George, Mudit Verma, Pratibha Moogi. Metric Subset Selection For Dynamic Performance Monitoring
-* Kaustabha Ray, UmaMaheswari C Devi, Felix George. Configuration of Multi-Instance Graphics Processing Units
-* Kaustabha Ray, UmaMaheswari C Devi, Felix George. Power utilization approximation across a plurality of processing instances of a parallel processor
