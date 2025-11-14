@@ -13,7 +13,7 @@ I am currently a Research Scientist with IBM Research - India prior to which I r
 Journal Articles
 ======
 
-*  Kaustabha Ray and Ansuman Banerjee. "Computation Offloading and Band Selection for IoT Devices in Multi-Access Edge Computing." accepted for publication in _ACM Transactions on Modeling and Computer Simulation, May 2024_
+* Kaustabha Ray and Ansuman Banerjee. "Computation Offloading and Band Selection for IoT Devices in Multi-Access Edge Computing." in _ACM Transactions on Modeling and Computer Simulation 35, no. 2 (2025): 1-28._
 *  Kaustabha Ray. "Context-Aware Fault Classification for Multi-Access Edge Computing." accepted for publication in _IEEE Transactions on Network and Service Management, vol. 21, no. 6, pp. 6290-6300, Dec. 2024_
 *  Kaustabha Ray, Ansuman Banerjee, and Nanjangud C. Narendra. "Learning-based Microservice Placement and Migration for Multi-Access Edge Computing” accepted for publication in <em>IEEE Transactions on Network and Service Management, vol. 21, no. 2, pp. 1969-1982, April 2024</em>
 *  Kaustabha Ray and Ansuman Banerjee, "Prioritized Fault Recovery Strategies for Multi-Access Edge Computing Using Probabilistic Model Checking" in _IEEE Transactions on Dependable and Secure Computing, vol. 20, no. 1, pp. 797-812, 1 Jan.-Feb. 2023_
@@ -54,4 +54,6 @@ Patents Filed at USPTO from IBM Research
 * Kaustabha Ray, UmaMaheswari C Devi, Felix George. Configuration of Multi-Instance Graphics Processing Units
 * Kaustabha Ray, UmaMaheswari C Devi, Felix George. Power utilization approximation across a plurality of processing instances of a parallel processor
 * Dhanya R Mathews, Divya Pathak, Felix George, Kaustabha Ray, Mudit Verma, Pratibha Moogi, Trace Management System
+* Dhanya R Mathews, Kaustabha Ray, Mudit Verma, Harshit Kumar, Pratibha Moogi. Trace Sampling with Budget Constraints
+
 
