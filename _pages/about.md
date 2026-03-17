@@ -24,7 +24,7 @@ Journal Articles
 
 Conference Proceedings
 ======
-* Tirth Vamja, Kaustabha Ray, Felix Geroge, UmaMaheswari Devi. "Data-driven Power Consumption Modeling and Estimation for Partitioned GPUs" – accepted to 5th Internation Conference on AI-ML Systems (AIMLSys), 2025
+* Tirth Vamja, Kaustabha Ray, Felix Geroge, UmaMaheswari Devi. "Data-driven Power Consumption Modeling and Estimation for Partitioned GPUs" – accepted to 5th International Conference on AI-ML Systems (AIMLSys), 2025
 * Kaustabha Ray, and Ansuman Banerjee. "Autonomous Automotives on the Edge." in _2024 37th International Conference on VLSI Design and 2024 23rd International Conference on Embedded Systems (VLSID), pp. 264-269. IEEE, 2024._
 * Niteesh Dubey, Joefon Jann, Pratap Pattnaik, Joseph F Prisco, Mike Petrich, Kaustabha Ray,
 Umamaheswari Devi, Aanchal Goyal, Arthur Parkos, Stacey Gifford, "Modeling and Estimation of LPAR Energy Consumption for IBM POWER Systems" – in _2023 31st International Symposium on Modeling, Analysis, and Simulation of Computer and Telecommunication Systems (MASCOTS) (pp. 1-4). IEEE._
