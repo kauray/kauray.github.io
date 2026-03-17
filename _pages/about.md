@@ -24,6 +24,7 @@ Journal Articles
 
 Conference Proceedings
 ======
+* Tirth Vamja, Kaustabha Ray, Felix Geroge, UmaMaheswari Devi. "Data-driven Power Consumption Modeling and Estimation for Partitioned GPUs" – accepted to 5th Internation Conference on AI-ML Systems (AIMLSys), 2025
 * Kaustabha Ray, and Ansuman Banerjee. "Autonomous Automotives on the Edge." in _2024 37th International Conference on VLSI Design and 2024 23rd International Conference on Embedded Systems (VLSID), pp. 264-269. IEEE, 2024._
 * Niteesh Dubey, Joefon Jann, Pratap Pattnaik, Joseph F Prisco, Mike Petrich, Kaustabha Ray,
 Umamaheswari Devi, Aanchal Goyal, Arthur Parkos, Stacey Gifford, "Modeling and Estimation of LPAR Energy Consumption for IBM POWER Systems" – in _2023 31st International Symposium on Modeling, Analysis, and Simulation of Computer and Telecommunication Systems (MASCOTS) (pp. 1-4). IEEE._
@@ -41,15 +42,15 @@ Patents Granted at USPTO from IBM Research
 ======
 * Kaustabha Ray. Proactive Microservice Migration Prior to Server Failure
 * Kaustabha Ray. Management of Service Availability for Multi-Access Edge Computing
+* Kaustabha Ray. Fault Injection Configuration Equivalency Testing
+* Kaustabha Ray. Redeploying Services in Computing Systems Based on Power Consumption Needs of the Services
+* Kaustabha Ray. Synthesizing Allocations for Microservices in Multi-Access Edge Computing
  
 Patents Filed at USPTO from IBM Research
 ======
 * Kaustabha Ray. Recommendation of Workload Allocation Policies in Multi-Access Edge Computing
 * Kaustabha Ray. Determining whether configurations on different edge sites are equivalent
-* Kaustabha Ray. Fault Injection Configuration Equivalency Testing
 * Kaustabha Ray. Verifying Fairness of Workload Shifting Policies
-* Kaustabha Ray. Redeploying Services in Computing Systems Based on Power Consumption Needs of the Services
-* Kaustabha Ray. Synthesizing Allocations for Microservices in Multi-Access Edge Computing
 * Akanksha Singal, Kaustabha Ray, Felix George, Mudit Verma, Pratibha Moogi. Metric Subset Selection For Dynamic Performance Monitoring
 * Kaustabha Ray, UmaMaheswari C Devi, Felix George. Configuration of Multi-Instance Graphics Processing Units
 * Kaustabha Ray, UmaMaheswari C Devi, Felix George. Power utilization approximation across a plurality of processing instances of a parallel processor
