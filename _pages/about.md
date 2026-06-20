@@ -24,6 +24,8 @@ Journal Articles
 
 Conference Proceedings
 ======
+* Divya Pathak, Felix George, Harshit Kumar, Anuska Roy, Kaustabha Ray, Mudit Verma, and Pratibha Moogi. "Detecting Silent Failures in Multi-Agentic AI Trajectories (Work In Progress Paper)." In Companion of the 17th ACM/SPEC International Conference on Performance Engineering, pp. 33-39. 2026.
+* Felix George, Divya Pathak, Harshit Kumar, Kaustabha Ray, Mudit Verma, and Pratibha Moogi. "Unsupervised Cycle Detection in Agentic Applications (Work In Progress Paper)." In Companion of the 17th ACM/SPEC International Conference on Performance Engineering, pp. 40-46. 2026.
 * Tirth Vamja, Kaustabha Ray, Felix Geroge, UmaMaheswari Devi. "Data-driven Power Consumption Modeling and Estimation for Partitioned GPUs" – accepted to 5th International Conference on AI-ML Systems (AIMLSys), 2025
 * Kaustabha Ray, and Ansuman Banerjee. "Autonomous Automotives on the Edge." in _2024 37th International Conference on VLSI Design and 2024 23rd International Conference on Embedded Systems (VLSID), pp. 264-269. IEEE, 2024._
 * Niteesh Dubey, Joefon Jann, Pratap Pattnaik, Joseph F Prisco, Mike Petrich, Kaustabha Ray,
